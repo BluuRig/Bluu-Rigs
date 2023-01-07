@@ -1,4 +1,4 @@
-#Bluu Rigs
+BLUU RIG \ READ ME
 
 This repository contains the rig base versions 1.7 & previous versions.
 
